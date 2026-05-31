@@ -20,19 +20,7 @@
   </a>
 </p>
 
-<h2> Table of Contents </h2>
 
-- [Note](#note)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-  - [Locally](#locally)
-  - [Docker](#docker)
-  - [Heroku](#heroku)
-  - [Vercel](#vercel)
-  - [Render](#render)
-  - [Railway](#railway)
-  -[sponsor](#sponsor)
 
 ## Note
 
@@ -137,8 +125,4 @@ sudo systemctl stop apache2.service
 ## Restart command ##
 sudo systemctl restart apache2.service
 ```
-We can view status using the following command:
-`sudo systemctl status apache2.service`
 
-## Sponsor
- - aayushsc@upi
