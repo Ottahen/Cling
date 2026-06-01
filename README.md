@@ -50,7 +50,7 @@ New source code of animezia.com will not be public anytime soon.
  - 🏆 Auto Image Optimization to webp. 
  - ⭐Anime Available Based on Genres, Seasons, categories, status, language.
  - 🚀Ready to deploy code.
-
+you can use for commercial proposed 
 
 ## Requirements
  - A php webserver hosting. [Buy paid or free hostings](#hosting)
@@ -106,7 +106,7 @@ Once you have purchased Cpanel from hosting provider then follow these:
  - Upload the files of this repo in the public_html directory.
  - configure domains from cpanel and site is ready ✨
 
-## Locally
+## Locally .......
 
 First download the repository using. After cloning, change the repo name to your site name.
 ```
