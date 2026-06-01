@@ -117,7 +117,7 @@ cd animezia.com
 Now start the production build of the site:
  - Use the following systemctl command on Debian Linux version 8.x+ or Ubuntu Linux version Ubuntu 15.04+ or above:
 watch unlimited anime
-```
+```TRY IT HOST YOURSELF
 ## Start command ##
 sudo systemctl start apache2.service
 ## Stop command ##
