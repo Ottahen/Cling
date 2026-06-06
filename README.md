@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
- A PHP web application used for browsing, searching and fetching anime details and episodes.
+ A PHP web application used for browsing datas, searching and fetching anime details and episodes.
 </p>
 <p align="center">
     <a href="https://discord.gg/43pgyxBDPg">
