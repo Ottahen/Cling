@@ -28,7 +28,7 @@
 * We do **NOT** promote piracy or free anime streaming sites.
 
   <div align="center">
-   <h2> Demo https://the.animezia.com </h2> <br>
+   <h2> try it live https://the.animezia.com </h2> <br>
    <!-- PREVIEW IMAGE -->
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiceJ8ksJ7c_-6zydA2eB2l9jKM0ls32LALgy60oizZrMn4tJwZ1IH48aurvpgoH6aok11EjXQ5YPfytuc-oXJJ6q5Ar83fV6nXQrvgSdNhQPMZ96dNxkqh6SEyEJK6flk-UWQncxzqurvh_nls_yZ8VEDJ-zDpQeCVKdq1WzztkqsLendtpbNgXYXLQw/s700/Screenshot%202023-04-01%20184807.png">
   </div>
