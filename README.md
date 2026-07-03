@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-warlordsnet-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.me/animezia_updates" alt="GitHub">
   </a>
 </p>
-
+ENJOY THE ANIME
 
 
 ## Note
