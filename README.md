@@ -38,7 +38,7 @@ ENJOY THE ANIME
 This is an improved version of Anikatsu - Base code of this repo.
 New source code of animezia.com will not be public anytime soon.
 
-
+X: XD
 ## Features 
  - ✔Requires no database.
  - ✨No Annoying Video Ads.
