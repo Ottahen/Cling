@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  AnimeZia - Watch High Quality Anime Online, No Ads !
+  AnimeZia - Watch High Quality Anime Online, No Ads - AD FREE!
 </h1>
 
 <p align="center">
