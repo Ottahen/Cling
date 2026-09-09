@@ -6,7 +6,7 @@
 </p> Night Dancers</p>
 <h1 align="center">
   AnimeZia - Watch High Quality Anime Online, No Ads - AD FREE!
-</h1>
+</h1>hh
 
 <p align="center">
  A PHP web application used for browsing datas,.. searching. and fetching anime details and episodes.
